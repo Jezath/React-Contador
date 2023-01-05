@@ -1,0 +1,22 @@
+button {
+    width: 200px;
+    height: 80px;
+    font-size: 35px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00471b;
+}
+
+.boton-aumentar {
+    background-color: #002ead;
+}
+
+.boton-reiniciar {
+    background-color: #5a01a7;
+}
